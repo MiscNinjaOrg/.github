@@ -1,2 +1,2 @@
-# MiscNinja
-## Cool Open Source AI Stuff
+# Mysc AI
+## A Software API your AI Applications need.
